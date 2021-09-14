@@ -6,6 +6,7 @@ import {PropagateLoader} from "react-spinners";
 import Header from "./Components/Header";
 import Product from "./Components/Product";
 import About from "./Components/About";
+import Contact from "./Components/Contact";
 
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
               <Header/>
               <Product/>
               <About/>
+              <Contact/>
             </>
 
       }
