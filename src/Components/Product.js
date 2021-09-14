@@ -12,7 +12,7 @@ function Feature() {
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente.</p>
             <div className="a-container">
                 <ProductBox image={picture1} title="Luger Burger"/>
-                <ProductBox image={picture2} title="Luger Burger "/>
+                <ProductBox image={picture2} title="Le Pigeon Burger"/>
                 <ProductBox image={picture1} title="Luger Burger"/>
 
             </div>
