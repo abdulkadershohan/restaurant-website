@@ -3,6 +3,8 @@ import './App.css'
 import Navbar from "./Components/Navbar";
 import { css } from "@emotion/core";
 import {PropagateLoader} from "react-spinners";
+import Header from "./Components/Header";
+import Product from "./Components/Product";
 
 
 function App() {
@@ -27,6 +29,8 @@ function App() {
             <>
               >
               <Navbar/>
+              <Header/>
+              <Product/>
             </>
 
       }
