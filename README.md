@@ -2,7 +2,7 @@
 
  # ***Frontend and single page website***
 
-### Preview The Live Project [click here](https://ecommerce-restaurant.netlify.app/).
+### Preview The Live Project [click here](https://restaurant-website-9.netlify.app/).
 
 ### To Run the Application Simply Type in your Terminal: `npm start`
 The project will run [http://localhost:3000](http://localhost:3000)
